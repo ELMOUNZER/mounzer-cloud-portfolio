@@ -1,12 +1,5 @@
 const copy = {
   "de": {
-    "navExperience": "Erfahrung",
-    "navSkills": "Kenntnisse",
-    "navEducation": "Bildung",
-    "print": "Lebenslauf drucken",
-    "earlier": "Frühere Stationen anzeigen",
-    "azureCert": "Microsoft Certified · 09/2026 · Gültig bis 09/2027",
-    "msCert": "MS-102 · Zertifikat erworben",
     "backTop": "Zurück nach oben ↑",
     "workNav": "Projekte",
     "workLabel": "LÖSUNGEN AUS DER PRAXIS",
@@ -53,10 +46,9 @@ const copy = {
     "stepThree": "Übergeben & weiterdenken",
     "stepThreeText": "Die Anwendung oder Website wird eingerichtet und erklärt. Erweiterungen planen wir passend zum nächsten Bedarf.",
     "aboutLabel": "DER MENSCH HINTER DER UMSETZUNG",
-    "aboutHeading": "Mounzer Alzhrawi.\nTechnik mit Blick auf den Alltag.",
-    "aboutText": "Ich verbinde Softwareentwicklung mit Erfahrung in IT-Support und Systemen. Von Websites bis zu internen Webanwendungen: Mich interessiert, wie Technik für Menschen übersichtlicher und nützlicher wird.",
+    "aboutHeading": "Ein Kopf für Design,\nSoftware und IT.",
+    "aboutText": "Ich bin Mounzer aus Essen. Ich unterstütze Startups und kleine Unternehmen dabei, digital zu starten und einfacher zu arbeiten — mit Design, Full-Stack-Entwicklung, Automatisierung und praktischer IT-Unterstützung.",
     "aboutNote": "B.Sc. Informationstechnologie · Microsoft-Zertifikate · Deutsch, Arabisch, Englisch und Spanisch",
-    "backgroundLabel": "Erfahrung & Qualifikationen ansehen",
     "contactLabel": "IHR NÄCHSTES PROJEKT",
     "contactHeadline": "Was möchten Sie\neinfacher machen?",
     "contactIntro": "Erzählen Sie mir kurz von Ihrem Vorhaben. Gemeinsam klären wir, welche Lösung passt und wie der nächste Schritt aussehen kann.",
@@ -93,16 +85,13 @@ const copy = {
     "navLabel": "Navigation",
     "filterLabel": "Projektkategorien",
     "languageLabel": "Sprache",
-    "heroImageAlt": "WhatsApp und n8n — illustrativer Ablauf"
+    "heroImageAlt": "WhatsApp und n8n — illustrativer Ablauf",
+    "whatsappTitle": "Direkt ins Gespräch.",
+    "whatsappScan": "QR-Code mit WhatsApp scannen — oder den Chat direkt öffnen.",
+    "whatsappChat": "Auf WhatsApp schreiben",
+    "whatsappAlt": "QR-Code für den WhatsApp-Kontakt mit Mounzer Alzhrawi"
   },
   "en": {
-    "navExperience": "Experience",
-    "navSkills": "Skills",
-    "navEducation": "Education",
-    "print": "Print résumé",
-    "earlier": "Show earlier experience",
-    "azureCert": "Microsoft Certified · 09/2026 · Valid until 09/2027",
-    "msCert": "MS-102 · Certification earned",
     "backTop": "Back to top ↑",
     "workNav": "Projects",
     "workLabel": "SOLUTIONS IN PRACTICE",
@@ -149,10 +138,9 @@ const copy = {
     "stepThree": "Hand over & look ahead",
     "stepThreeText": "The website or application is set up and explained. Further improvements can follow as your needs evolve.",
     "aboutLabel": "THE PERSON BEHIND THE WORK",
-    "aboutHeading": "Mounzer Alzhrawi.\nTechnology for everyday needs.",
-    "aboutText": "I combine software development with experience in IT support and systems. From websites to internal web applications, I focus on making technology clearer and more useful for people.",
-    "aboutNote": "B.Sc. Information Technology · Microsoft certifications · German, Arabic, English, and Spanish",
-    "backgroundLabel": "View experience & qualifications",
+    "aboutHeading": "Design, software and IT.\nOne person to connect them.",
+    "aboutText": "I’m Mounzer, based in Essen. I help startups and small businesses get started online and work more smoothly — through design, full-stack development, automation, and practical IT support.",
+    "aboutNote": "B.Sc. Information Technology · Microsoft certifications · German, Arabic, English and Spanish",
     "contactLabel": "YOUR NEXT PROJECT",
     "contactHeadline": "What would you like\nto make simpler?",
     "contactIntro": "Tell me a little about your idea. Together, we can work out what fits and what the next step could be.",
@@ -189,7 +177,11 @@ const copy = {
     "navLabel": "Navigation",
     "filterLabel": "Project categories",
     "languageLabel": "Language",
-    "heroImageAlt": "WhatsApp and n8n — illustrated workflow"
+    "heroImageAlt": "WhatsApp and n8n — illustrated workflow",
+    "whatsappTitle": "Let’s talk directly.",
+    "whatsappScan": "Scan the QR code with WhatsApp — or open the chat directly.",
+    "whatsappChat": "Chat on WhatsApp",
+    "whatsappAlt": "QR code to contact Mounzer Alzhrawi on WhatsApp"
   },
   "ar": {
     "skip": "انتقل إلى المحتوى",
@@ -253,17 +245,9 @@ const copy = {
     "stepThree": "نسلم ونخطط للتطوير",
     "stepThreeText": "نجهز الموقع أو التطبيق ونشرح استخدامه، ثم نحدد التحسينات المناسبة مع تطور احتياجاتك.",
     "aboutLabel": "من يقف خلف العمل؟",
-    "aboutHeading": "منذر الزهراوي.\nتقنية تخدم احتياجاتك اليومية.",
-    "aboutText": "أجمع بين تطوير البرمجيات والخبرة في الدعم التقني والأنظمة. من المواقع إلى تطبيقات العمل الداخلية، أركز على جعل التقنية أوضح وأكثر فائدة للناس.",
-    "aboutNote": "بكالوريوس في تقنية المعلومات · شهادات Microsoft · العربية والألمانية والإنجليزية والإسبانية",
-    "backgroundLabel": "عرض الخبرات والمؤهلات",
-    "navExperience": "الخبرة المهنية",
-    "navSkills": "المهارات التقنية",
-    "navEducation": "التعليم والتدريب",
-    "earlier": "عرض الخبرات السابقة",
-    "azureCert": "شهادة Microsoft · سبتمبر 2026 · صالحة حتى سبتمبر 2027",
-    "msCert": "MS-102 · تم الحصول على الشهادة",
-    "print": "طباعة السيرة الذاتية",
+    "aboutHeading": "تصميم وبرمجة وتقنية.\nمع شخص يفهم احتياجك.",
+    "aboutText": "أنا منذر، مقيم في إيسن. أساعد الشركات الناشئة والصغيرة على الانطلاق رقمياً وتبسيط العمل، من التصميم وتطوير الواجهات والأنظمة الخلفية إلى الأتمتة والدعم التقني العملي.",
+    "aboutNote": "بكالوريوس تقنية المعلومات · شهادات Microsoft · العربية والألمانية والإنجليزية والإسبانية",
     "contactLabel": "مشروعك القادم",
     "contactHeadline": "ما الذي تود\nأن تجعله أسهل؟",
     "contactIntro": "أخبرني قليلًا عن فكرتك. نحدد معًا الحل المناسب والخطوة التالية.",
@@ -285,430 +269,13 @@ const copy = {
     "navLabel": "التنقل",
     "filterLabel": "تصنيفات المشاريع",
     "languageLabel": "اللغة",
-    "heroImageAlt": "واتساب وn8n — رسم توضيحي لسير العمل"
+    "heroImageAlt": "واتساب وn8n — رسم توضيحي لسير العمل",
+    "whatsappTitle": "خلّينا نحكي مباشرة.",
+    "whatsappScan": "امسح الرمز بكاميرا واتساب، أو افتح المحادثة مباشرة.",
+    "whatsappChat": "راسلني على واتساب",
+    "whatsappAlt": "رمز QR للتواصل مع منذر الزهراوي على واتساب"
   }
 };
-const career = {
-  "de": [
-    {
-      "date": "01/2025 — 12/2025",
-      "title": "Full-Stack-Entwickler",
-      "company": "M.O.E. · Kiel / Hamburg / Itzehoe",
-      "description": "Entwicklung und Wartung interner Webanwendungen für Seminarverwaltung und Buchungen. Erstellung interaktiver Reports und Tools.",
-      "tags": [
-        "Laravel",
-        "PHP",
-        "MySQL",
-        "Vue.js"
-      ]
-    },
-    {
-      "date": "11/2023 — 12/2024",
-      "title": "Mitarbeiter im Reporting",
-      "company": "M.O.E. · Kiel",
-      "description": "Werkstudent / Minijob: Reporting, interne Datenanalysen und technische Mitarbeit an Entwicklungsprojekten.",
-      "tags": []
-    },
-    {
-      "date": "06/2023 — 10/2023",
-      "title": "Webentwickler",
-      "company": "SonneGo · Kiel",
-      "description": "Frontend-Entwicklung, Hosting-Einrichtung und Online-Marketing.",
-      "tags": [
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ]
-    },
-    {
-      "date": "01/2022 — 08/2023",
-      "title": "Freiberuflicher IT-Dienstleister",
-      "company": "Remote · u. a. Fiverr",
-      "description": "Fehleranalyse und Programmierunterstützung; UI/UX-Prototypen mit Adobe XD und Figma.",
-      "tags": []
-    },
-    {
-      "date": "09/2021 — 12/2021",
-      "title": "Logistik- und Systemunterstützung",
-      "company": "ERGOTA GmbH · Rendsburg / Hamburg",
-      "description": "Digitale Überwachung von Lieferprozessen; Organisation von Touren und Sendungen.",
-      "tags": []
-    },
-    {
-      "date": "02/2021 — 08/2021",
-      "title": "Sicherheitsassistent",
-      "company": "MSD Sicherheitsdienst GmbH · Kiel",
-      "description": "Digitale Zutrittskontrolle; Überwachung von Sicherheits- und Meldesystemen.",
-      "tags": []
-    },
-    {
-      "date": "03/2016 — 01/2018",
-      "title": "Technischer Assistent",
-      "company": "Ajan Elektro · Kiel",
-      "description": "Einrichtung von PC-Arbeitsplätzen, Reparatur von Smartphones und Laptops, Softwareinstallation und Kundenberatung.",
-      "tags": []
-    },
-    {
-      "date": "11/2013 — 06/2014",
-      "title": "IT-Helpdesk (1st Level)",
-      "company": "TurboNet Internetcafé · Kairo, Ägypten",
-      "description": "Anwendersupport, Hardwarewartung, Windows-/Linux-Installation und EasyCafe-Verwaltung.",
-      "tags": []
-    },
-    {
-      "date": "01/2012 — 09/2013",
-      "title": "Technischer Assistent",
-      "company": "Magic · Kairo, Ägypten",
-      "description": "Installation von Netzwerk- und Sicherheitssystemen, Verkabelung, Sensorprüfung und Ticketbearbeitung.",
-      "tags": []
-    },
-    {
-      "date": "03/2008 — 11/2011",
-      "title": "IT-Vertrieb und Kundenkommunikation",
-      "company": "SANA · Homs, Syrien",
-      "description": "Einrichtung und Support von IT-Produkten, Kundenberatung und Marketing.",
-      "tags": []
-    }
-  ],
-  "en": [
-    {
-      "date": "01/2025 — 12/2025",
-      "title": "Full-Stack Developer",
-      "company": "M.O.E. · Kiel / Hamburg / Itzehoe",
-      "description": "Developed and maintained internal web applications for seminar management and bookings. Created interactive reports and tools.",
-      "tags": [
-        "Laravel",
-        "PHP",
-        "MySQL",
-        "Vue.js"
-      ]
-    },
-    {
-      "date": "11/2023 — 12/2024",
-      "title": "Reporting Assistant",
-      "company": "M.O.E. · Kiel",
-      "description": "Working student / part-time: reporting, internal data analysis and technical support for development projects.",
-      "tags": []
-    },
-    {
-      "date": "06/2023 — 10/2023",
-      "title": "Web Developer",
-      "company": "SonneGo · Kiel",
-      "description": "Front-end development, hosting setup and online marketing.",
-      "tags": [
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ]
-    },
-    {
-      "date": "01/2022 — 08/2023",
-      "title": "Freelance IT Service Provider",
-      "company": "Remote · including Fiverr",
-      "description": "Troubleshooting and programming support; UI/UX prototypes using Adobe XD and Figma.",
-      "tags": []
-    },
-    {
-      "date": "09/2021 — 12/2021",
-      "title": "Logistics and Systems Support",
-      "company": "ERGOTA GmbH · Rendsburg / Hamburg",
-      "description": "Digitally monitored delivery processes; organized routes and shipments.",
-      "tags": []
-    },
-    {
-      "date": "02/2021 — 08/2021",
-      "title": "Security Assistant",
-      "company": "MSD Sicherheitsdienst GmbH · Kiel",
-      "description": "Digital access control; monitored security and alert systems.",
-      "tags": []
-    },
-    {
-      "date": "03/2016 — 01/2018",
-      "title": "Technical Assistant",
-      "company": "Ajan Elektro · Kiel",
-      "description": "Set up PC workstations, repaired smartphones and laptops, installed software and advised customers.",
-      "tags": []
-    },
-    {
-      "date": "11/2013 — 06/2014",
-      "title": "IT Helpdesk (1st Level)",
-      "company": "TurboNet Internet Café · Cairo, Egypt",
-      "description": "User support, hardware maintenance, Windows/Linux installation and EasyCafe administration.",
-      "tags": []
-    },
-    {
-      "date": "01/2012 — 09/2013",
-      "title": "Technical Assistant",
-      "company": "Magic · Cairo, Egypt",
-      "description": "Installed network and security systems; cabling, sensor testing and ticket handling.",
-      "tags": []
-    },
-    {
-      "date": "03/2008 — 11/2011",
-      "title": "IT Sales and Customer Communications",
-      "company": "SANA · Homs, Syria",
-      "description": "IT product setup and support, customer advice and marketing.",
-      "tags": []
-    }
-  ],
-  "ar": [
-    {
-      "date": "01/2025 — 12/2025",
-      "title": "مطور تطبيقات متكامل",
-      "company": "M.O.E. · كيل / هامبورغ / إتسهوزه",
-      "description": "تطوير وصيانة تطبيقات داخلية لإدارة الدورات والحجوزات، وإعداد تقارير تفاعلية وأدوات للعمل.",
-      "tags": [
-        "Laravel",
-        "PHP",
-        "MySQL",
-        "Vue.js"
-      ]
-    },
-    {
-      "date": "11/2023 — 12/2024",
-      "title": "مساعد تقارير",
-      "company": "M.O.E. · كيل",
-      "description": "عمل طلابي وبدوام جزئي في التقارير وتحليل البيانات والمساعدة التقنية في مشاريع البرمجيات.",
-      "tags": []
-    },
-    {
-      "date": "06/2023 — 10/2023",
-      "title": "مطور ويب",
-      "company": "SonneGo · كيل",
-      "description": "تطوير الواجهات وإعداد الاستضافة والمساعدة في التسويق الرقمي.",
-      "tags": [
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ]
-    },
-    {
-      "date": "01/2022 — 08/2023",
-      "title": "خدمات تقنية مستقلة",
-      "company": "عن بُعد · بما فيها Fiverr",
-      "description": "تشخيص الأخطاء والمساعدة البرمجية وتصميم نماذج لواجهات وتجربة المستخدم باستخدام Adobe XD وFigma.",
-      "tags": []
-    },
-    {
-      "date": "09/2021 — 12/2021",
-      "title": "دعم الأنظمة والعمليات اللوجستية",
-      "company": "ERGOTA GmbH · رندسبورغ / هامبورغ",
-      "description": "متابعة عمليات التسليم رقميًا وتنظيم المسارات والشحنات.",
-      "tags": []
-    },
-    {
-      "date": "02/2021 — 08/2021",
-      "title": "مساعد أمن",
-      "company": "MSD Sicherheitsdienst GmbH · كيل",
-      "description": "متابعة التحكم الرقمي بالدخول وأنظمة التنبيه والأمن.",
-      "tags": []
-    },
-    {
-      "date": "03/2016 — 01/2018",
-      "title": "مساعد تقني",
-      "company": "Ajan Elektro · كيل",
-      "description": "إعداد أجهزة العمل وإصلاح الحواسيب والهواتف وتثبيت البرامج وتقديم المشورة للعملاء.",
-      "tags": []
-    },
-    {
-      "date": "11/2013 — 06/2014",
-      "title": "دعم تقني — المستوى الأول",
-      "company": "TurboNet · القاهرة، مصر",
-      "description": "دعم المستخدمين وصيانة الأجهزة وتثبيت Windows وLinux وإدارة EasyCafe.",
-      "tags": []
-    },
-    {
-      "date": "01/2012 — 09/2013",
-      "title": "مساعد تقني",
-      "company": "Magic · القاهرة، مصر",
-      "description": "تركيب أنظمة الشبكات والأمن والتمديدات وفحص المستشعرات ومتابعة طلبات الدعم.",
-      "tags": []
-    },
-    {
-      "date": "03/2008 — 11/2011",
-      "title": "مبيعات تقنية وتواصل مع العملاء",
-      "company": "SANA · حمص، سوريا",
-      "description": "إعداد المنتجات التقنية ودعمها ومساعدة العملاء والتسويق.",
-      "tags": []
-    }
-  ]
-};
-const skillSets = {
-  "de": [
-    {
-      "title": "Cloud & Microsoft 365",
-      "text": "Microsoft Azure · Microsoft 365 · AWS · Google Cloud"
-    },
-    {
-      "title": "Systeme & Support",
-      "text": "Windows · Linux · Netzwerkmanagement · Systemkonfiguration · IT-Support"
-    },
-    {
-      "title": "Softwareentwicklung",
-      "text": "PHP · Laravel · Vue.js · JavaScript · HTML · CSS · REST APIs · Git · Java · C · C++"
-    },
-    {
-      "title": "Datenbanken & Tools",
-      "text": "MySQL · SQL · NoSQL · Microsoft Office · Adobe XD · Figma · Photoshop · Canva"
-    }
-  ],
-  "en": [
-    {
-      "title": "Cloud & Microsoft 365",
-      "text": "Microsoft Azure · Microsoft 365 · AWS · Google Cloud"
-    },
-    {
-      "title": "Systems & support",
-      "text": "Windows · Linux · Network management · System configuration · IT support"
-    },
-    {
-      "title": "Software development",
-      "text": "PHP · Laravel · Vue.js · JavaScript · HTML · CSS · REST APIs · Git · Java · C · C++"
-    },
-    {
-      "title": "Databases & tools",
-      "text": "MySQL · SQL · NoSQL · Microsoft Office · Adobe XD · Figma · Photoshop · Canva"
-    }
-  ],
-  "ar": [
-    {
-      "title": "السحابة وMicrosoft 365",
-      "text": "Microsoft Azure · Microsoft 365 · AWS · Google Cloud"
-    },
-    {
-      "title": "الأنظمة والدعم",
-      "text": "Windows · Linux · إدارة الشبكات · إعداد الأنظمة · الدعم التقني"
-    },
-    {
-      "title": "تطوير البرمجيات",
-      "text": "PHP · Laravel · Vue.js · JavaScript · HTML · CSS · REST APIs · Git · Java · C · C++"
-    },
-    {
-      "title": "قواعد البيانات والأدوات",
-      "text": "MySQL · SQL · NoSQL · Microsoft Office · Adobe XD · Figma · Photoshop · Canva"
-    }
-  ]
-};
-const education = {
-  "de": [
-    {
-      "date": "Seit 05/2026",
-      "title": "Microsoft Azure Cloud Administrator",
-      "company": "New Horizons · Düsseldorf",
-      "description": "Weiterbildung (laufend)"
-    },
-    {
-      "date": "08/2019 — 01/2025",
-      "title": "B.Sc. Informationstechnologie",
-      "company": "Fachhochschule Kiel",
-      "description": "Schwerpunkte: Softwareentwicklung, Cloud Computing und Projektarbeit. Bachelorarbeit: Seminarverwaltungsplattform."
-    },
-    {
-      "date": "08/2018 — 07/2019",
-      "title": "Studienkolleg",
-      "company": "Fachhochschule Kiel",
-      "description": "Vorbereitung auf die Hochschulzugangsberechtigung."
-    }
-  ],
-  "en": [
-    {
-      "date": "Since 05/2026",
-      "title": "Microsoft Azure Cloud Administrator",
-      "company": "New Horizons · Düsseldorf",
-      "description": "Ongoing professional training"
-    },
-    {
-      "date": "08/2019 — 01/2025",
-      "title": "B.Sc. Information Technology",
-      "company": "Kiel University of Applied Sciences",
-      "description": "Focus: software development, cloud computing, and project work. Bachelor’s thesis: seminar management platform."
-    },
-    {
-      "date": "08/2018 — 07/2019",
-      "title": "Studienkolleg",
-      "company": "Kiel University of Applied Sciences",
-      "description": "Preparation for higher education entrance qualification."
-    }
-  ],
-  "ar": [
-    {
-      "date": "منذ مايو 2026",
-      "title": "إدارة سحابة Microsoft Azure",
-      "company": "New Horizons · دوسلدورف",
-      "description": "تدريب مهني مستمر"
-    },
-    {
-      "date": "08/2019 — 01/2025",
-      "title": "بكالوريوس تقنية المعلومات",
-      "company": "جامعة كيل للعلوم التطبيقية",
-      "description": "التركيز على تطوير البرمجيات والحوسبة السحابية والعمل الجماعي. مشروع التخرج: منصة إدارة الدورات."
-    },
-    {
-      "date": "08/2018 — 07/2019",
-      "title": "دراسة تحضيرية",
-      "company": "جامعة كيل للعلوم التطبيقية",
-      "description": "الإعداد للالتحاق بالتعليم الجامعي."
-    }
-  ]
-};
-const spokenLanguages = {
-  "de": [
-    [
-      "Arabisch",
-      "Muttersprache"
-    ],
-    [
-      "Deutsch",
-      "Zweitsprache"
-    ],
-    [
-      "Englisch",
-      "Gute Kenntnisse"
-    ],
-    [
-      "Spanisch",
-      "B1"
-    ]
-  ],
-  "en": [
-    [
-      "Arabic",
-      "Native"
-    ],
-    [
-      "German",
-      "Second language"
-    ],
-    [
-      "English",
-      "Good proficiency"
-    ],
-    [
-      "Spanish",
-      "B1"
-    ]
-  ],
-  "ar": [
-    [
-      "العربية",
-      "اللغة الأم"
-    ],
-    [
-      "الألمانية",
-      "اللغة الثانية"
-    ],
-    [
-      "الإنجليزية",
-      "مستوى جيد"
-    ],
-    [
-      "الإسبانية",
-      "B1"
-    ]
-  ]
-};
-function safeText(value){return String(value).replace(/[&<>"']/g,char=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));}
-function entry(item){return `<article class="entry"><div class="date" dir="auto">${safeText(item.date)}</div><div><h3>${safeText(item.title)}</h3><div class="company" dir="auto">${safeText(item.company)}</div><p>${safeText(item.description)}</p>${item.tags?.length?`<div class="tags">${item.tags.map(tag=>`<span class="tag" dir="auto">${safeText(tag)}</span>`).join('')}</div>`:''}</div></article>`;}
 function setLanguage(language){
   const lang=copy[language]?language:'de';const c=copy[lang];
   document.documentElement.lang=lang;document.documentElement.dir=lang==='ar'?'rtl':'ltr';
@@ -716,17 +283,11 @@ function setLanguage(language){
   document.querySelectorAll('[data-t-alt]').forEach(el=>el.alt=c[el.dataset.tAlt]);
   document.querySelectorAll('[data-t-aria]').forEach(el=>el.setAttribute('aria-label',c[el.dataset.tAria]));
   document.querySelectorAll('[data-lang]').forEach(button=>{button.classList.toggle('active',button.dataset.lang===lang);button.setAttribute('aria-pressed',String(button.dataset.lang===lang));});
-  document.getElementById('recent').innerHTML=career[lang].slice(0,4).map(entry).join('');
-  document.getElementById('past').innerHTML=career[lang].slice(4).map(entry).join('');
-  document.getElementById('skillList').innerHTML=skillSets[lang].map((s,i)=>`<article class="skill"><div class="num">0${i+1}</div><h3>${safeText(s.title)}</h3><p dir="auto">${safeText(s.text)}</p></article>`).join('');
-  document.getElementById('study').innerHTML=education[lang].map(entry).join('');
-  document.getElementById('languages').innerHTML=spokenLanguages[lang].map(([name,level])=>`<div><b>${safeText(name)}</b><span>${safeText(level)}</span></div>`).join('');
   document.title=lang==='ar'?'منذر الزهراوي — تطوير وبرمجيات وتقنية معلومات':'Mounzer Alzhrawi — Web, Software & IT';
   try{localStorage.setItem('cv-language',lang)}catch{}
   document.dispatchEvent(new CustomEvent('languagechange',{detail:lang}));
 }
 document.querySelectorAll('[data-lang]').forEach(button=>button.addEventListener('click',()=>setLanguage(button.dataset.lang)));
-document.getElementById('print').addEventListener('click',()=>{const details=[...document.querySelectorAll('.background,.earlier')],state=details.map(el=>el.open);details.forEach(el=>el.open=true);window.print();details.forEach((el,i)=>el.open=state[i]);});
 document.getElementById('year').textContent=new Date().getFullYear();
 let initialLanguage='de';try{initialLanguage=localStorage.getItem('cv-language')||'de'}catch{}setLanguage(initialLanguage);
 const progress=document.querySelector('.reading-progress');let ticking=false;function updateProgress(){const max=document.documentElement.scrollHeight-innerHeight;progress.style.transform=`scaleX(${max>0?Math.min(1,scrollY/max):0})`;ticking=false;}window.addEventListener('scroll',()=>{if(!ticking){requestAnimationFrame(updateProgress);ticking=true;}},{passive:true});updateProgress();
