@@ -14,8 +14,8 @@ const copy = {
     "aboutNav": "Über mich",
     "talk": "Projekt anfragen",
     "heroEyebrow": "DIGITALE LÖSUNGEN FÜR KLEINE UNTERNEHMEN",
-    "serviceHero": "Gut starten.\nEinfacher arbeiten.",
-    "serviceIntro": "Vom ersten Auftritt bis zur IT dahinter: Ich unterstütze Startups und kleine Unternehmen mit Design, Software, Automatisierung und einer passenden technischen Basis.",
+    "serviceHero": "Ihre nächste Idee.",
+    "serviceIntro": "Design, Software und IT, die zusammenpassen. Ich helfe Startups und kleinen Unternehmen, digital loszulegen und ihren Alltag einfacher zu machen.",
     "startProject": "Projekt besprechen",
     "seeExamples": "Beispiele ansehen",
     "heroSignature": "Mounzer Alzhrawi · Entwicklung, Design & IT · Essen",
@@ -89,7 +89,14 @@ const copy = {
     "whatsappTitle": "Direkt ins Gespräch.",
     "whatsappScan": "QR-Code mit WhatsApp scannen — oder den Chat direkt öffnen.",
     "whatsappChat": "Auf WhatsApp schreiben",
-    "whatsappAlt": "QR-Code für den WhatsApp-Kontakt mit Mounzer Alzhrawi"
+    "whatsappAlt": "QR-Code für den WhatsApp-Kontakt mit Mounzer Alzhrawi",
+    "heroHello": "Hallo, ich bin Mounzer.",
+    "heroAccent": "Wird Wirklichkeit.",
+    "portraitAlt": "Mounzer Alzhrawi bei der Arbeit an seinem Schreibtisch",
+    "portraitCaption": "DESIGN · ENTWICKLUNG · IT",
+    "portraitStamp": "VON DER IDEE ZUR LÖSUNG",
+    "featureHeading": "Weniger Routine.\nMehr Möglichkeiten.",
+    "featureText": "Eine Nachricht kann einen ganzen Ablauf starten. Dieses illustrative WhatsApp-Beispiel zeigt, wie ich über vernetzte Prozesse und passende Automatisierung nachdenke."
   },
   "en": {
     "backTop": "Back to top ↑",
@@ -106,8 +113,8 @@ const copy = {
     "aboutNav": "About",
     "talk": "Discuss a project",
     "heroEyebrow": "DIGITAL SOLUTIONS FOR SMALL BUSINESSES",
-    "serviceHero": "Start well.\nWork smarter.",
-    "serviceIntro": "From your first website to the systems behind your business: I help startups and small companies with design, software, automation, and a suitable technical foundation.",
+    "serviceHero": "Your next idea.",
+    "serviceIntro": "Design, software and IT that work together. I help startups and small businesses launch online and make everyday work simpler.",
     "startProject": "Let’s discuss your project",
     "seeExamples": "See examples",
     "heroSignature": "Mounzer Alzhrawi · Development, design & IT · Essen",
@@ -181,7 +188,14 @@ const copy = {
     "whatsappTitle": "Let’s talk directly.",
     "whatsappScan": "Scan the QR code with WhatsApp — or open the chat directly.",
     "whatsappChat": "Chat on WhatsApp",
-    "whatsappAlt": "QR code to contact Mounzer Alzhrawi on WhatsApp"
+    "whatsappAlt": "QR code to contact Mounzer Alzhrawi on WhatsApp",
+    "heroHello": "Hello, I’m Mounzer.",
+    "heroAccent": "Made real.",
+    "portraitAlt": "Mounzer Alzhrawi working at his desk",
+    "portraitCaption": "DESIGN · DEVELOPMENT · IT",
+    "portraitStamp": "FROM IDEA TO SOLUTION",
+    "featureHeading": "Less routine.\nMore possibility.",
+    "featureText": "One message can start an entire workflow. This illustrated WhatsApp example shows how connected processes and useful automation can come together."
   },
   "ar": {
     "skip": "انتقل إلى المحتوى",
@@ -190,8 +204,8 @@ const copy = {
     "aboutNav": "نبذة عني",
     "talk": "ناقش مشروعك",
     "heroEyebrow": "حلول رقمية للشركات الصغيرة",
-    "serviceHero": "انطلاقة موفقة.\nوعمل أسهل.",
-    "serviceIntro": "من أول موقع إلكتروني إلى الأنظمة التي تدعم أعمالك: أساعد الشركات الناشئة والصغيرة في التصميم والبرمجة والأتمتة وبناء أساس تقني يناسب احتياجاتها.",
+    "serviceHero": "فكرتك القادمة.",
+    "serviceIntro": "تصميم وبرمجيات وتقنية تعمل معاً. أساعد الشركات الناشئة والصغيرة على الانطلاق رقمياً وتبسيط العمل اليومي.",
     "startProject": "لنتحدث عن مشروعك",
     "seeExamples": "استعرض الأمثلة",
     "heroSignature": "منذر الزهراوي · تطوير وتصميم وتقنية معلومات · إيسن",
@@ -273,7 +287,14 @@ const copy = {
     "whatsappTitle": "خلّينا نحكي مباشرة.",
     "whatsappScan": "امسح الرمز بكاميرا واتساب، أو افتح المحادثة مباشرة.",
     "whatsappChat": "راسلني على واتساب",
-    "whatsappAlt": "رمز QR للتواصل مع منذر الزهراوي على واتساب"
+    "whatsappAlt": "رمز QR للتواصل مع منذر الزهراوي على واتساب",
+    "heroHello": "أهلاً، أنا منذر.",
+    "heroAccent": "نحوّلها لواقع.",
+    "portraitAlt": "منذر الزهراوي أثناء العمل على مكتبه",
+    "portraitCaption": "تصميم · برمجة · تقنية",
+    "portraitStamp": "من الفكرة إلى الحل",
+    "featureHeading": "روتين أقل.\nوإمكانيات أكثر.",
+    "featureText": "رسالة واحدة قد تبدأ سلسلة كاملة من الإجراءات. يوضح مثال واتساب هذا كيف يمكن ربط العمليات بأتمتة مناسبة لاحتياجك."
   }
 };
 function setLanguage(language){
