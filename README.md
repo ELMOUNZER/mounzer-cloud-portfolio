@@ -12,5 +12,3 @@ A responsive portfolio for design and startup support, full-stack development an
 This is a static website with no dependencies or build step. GitHub Pages serves `main` at the repository root.
 
 https://elmounzer.github.io/mounzer-cloud-portfolio/
-
-SonneGo uses a capture of the actual website. Other previews are labeled illustrations. Architecture proposals and team projects are identified in their descriptions.
