@@ -1,88 +1,86 @@
-// Bilingual and Arabic project records. Add future services here.
 const projectCatalog = [
   {
-    "id": "sonnego",
+    "id": "business-landingpage",
     "category": "launch",
-    "visual": "sonnego-live.png",
-    "live": "https://sonnego.de/",
+    "visual": "landingpage-azure.svg",
     "tags": [
-      "HTML / CSS",
-      "JavaScript",
+      "Responsive design",
+      "UI / UX",
       "Landing page",
       "Hosting"
     ],
     "de": {
-      "name": "SonneGo",
+      "name": "Websites für Ihren Geschäftsstart",
       "type": "WEBSITE / LANDINGPAGE",
-      "status": "LIVE · SONNEGO.DE",
-      "headline": "Ein klarer Einstieg für neue Kunden.",
-      "benefit": "Eine einfache Landingpage stellt das Unternehmen und sein Angebot vor und führt Interessenten zum Kontakt. Hier sehen Sie die echte SonneGo-Website.",
+      "status": "GESTALTUNGSKONZEPT",
+      "headline": "Ihr Angebot. Klar präsentiert.",
+      "benefit": "Eine moderne Landingpage bringt Ihre Leistungen, Ihre Geschichte und den direkten Kontakt zusammen. Ein Gestaltungskonzept für Startups, Selbstständige und kleine Unternehmen.",
       "facts": [
         [
-          "Praxisbeispiel",
-          "Eine Landingpage für einen Solarenergie-Anbieter. Sie präsentiert das Angebot und bietet einen direkten Kontaktweg."
+          "Die Idee",
+          "Ein klarer digitaler Einstieg für ein neues Unternehmen: Angebot verstehen, Vertrauen aufbauen und Kontakt aufnehmen."
         ],
         [
-          "Für Ihr Unternehmen",
-          "Eine fokussierte Website kann Ihre Leistungen, Ihre Arbeitsweise und Ihre Kontaktmöglichkeiten an einem Ort zusammenbringen."
+          "Was ich umsetzen kann",
+          "Individuelle Gestaltung, responsive Frontend-Entwicklung und eine übersichtliche Struktur für Leistungen, Arbeitsweise und Kontakt."
         ],
         [
-          "Mein Beitrag",
-          "Frontend-Entwicklung, Hosting-Einrichtung und Unterstützung im Online-Marketing. Die Umsetzung baut auf vorhandenen Template- und Bootstrap-Bausteinen auf."
+          "Zum Start",
+          "Inhalte und Umfang richten sich nach Ihrem Bedarf. Hosting-Einrichtung und spätere Erweiterungen können wir passend dazu planen."
         ],
         [
-          "Live ansehen",
-          "Die Vorschau ist eine statische Aufnahme der Website. Über „Website besuchen“ können Sie sonnego.de direkt öffnen."
+          "Zur Vorschau",
+          "Ein eigens gestaltetes Beispiel für diese Leistung. Es zeigt ein mögliches Design und ist kein veröffentlichtes Kundenprojekt."
         ]
       ]
     },
     "en": {
-      "name": "SonneGo",
+      "name": "Websites for your business launch",
       "type": "WEBSITE / LANDING PAGE",
-      "status": "LIVE · SONNEGO.DE",
-      "headline": "A clear introduction for potential customers.",
-      "benefit": "A simple landing page introduces the business and its offer, then guides visitors towards contact. This is the actual SonneGo website.",
+      "status": "DESIGN CONCEPT",
+      "headline": "Your offer. Clearly presented.",
+      "benefit": "A modern landing page brings your services, story, and direct contact together. A design concept for startups, independent professionals, and small businesses.",
       "facts": [
         [
-          "In practice",
-          "A landing page for a solar energy provider. It introduces the offer and gives visitors a direct route to contact."
+          "The idea",
+          "A clear digital starting point for a new business: understand the offer, build trust, and get in touch."
         ],
         [
-          "For your business",
-          "A focused website can bring your services, approach, and contact details together in one place."
+          "What I can build",
+          "Custom design, responsive frontend development, and a clear structure for services, approach, and contact."
         ],
         [
-          "My contribution",
-          "Front-end development, hosting setup, and support for online marketing. The implementation adapts existing template and Bootstrap components."
+          "For your launch",
+          "Content and scope follow your needs. Hosting setup and future extensions can be planned around your next steps."
         ],
         [
-          "See it live",
-          "The preview is a static capture of the website. Use “Visit website” to open sonnego.de directly."
+          "About the preview",
+          "An original example created to illustrate this service. It shows a possible design and is not a published client project."
         ]
       ]
     },
     "ar": {
-      "name": "SonneGo",
+      "name": "موقع لانطلاقة مشروعك",
       "type": "موقع إلكتروني / صفحة تعريفية",
-      "status": "الموقع الفعلي · SONNEGO.DE",
-      "headline": "مدخل واضح للعملاء المحتملين.",
-      "benefit": "صفحة تعريفية بسيطة تقدم الشركة وخدماتها وتوجه الزوار إلى التواصل. هذه معاينة للموقع الحقيقي لشركة SonneGo.",
+      "status": "تصور تصميمي",
+      "headline": "خدماتك، بصورة واضحة.",
+      "benefit": "صفحة عصرية تجمع خدماتك وقصة مشروعك والتواصل المباشر في مكان واحد. تصور تصميمي مناسب للشركات الناشئة والمستقلين والأعمال الصغيرة.",
       "facts": [
         [
-          "مثال عملي",
-          "صفحة تعريفية لمزود حلول الطاقة الشمسية، تعرض الخدمات وتوفر وسيلة مباشرة للتواصل."
+          "الفكرة",
+          "بداية رقمية واضحة لنشاط جديد: فهم الخدمات وبناء الثقة وتسهيل التواصل."
         ],
         [
-          "لشركتك",
-          "يمكن لموقع مركز أن يجمع خدماتك وطريقة عملك وبيانات التواصل في مكان واحد."
+          "ما يمكنني تنفيذه",
+          "تصميم مخصص وتطوير واجهات متجاوبة وتنظيم واضح للخدمات وطريقة العمل ووسائل التواصل."
         ],
         [
-          "مساهمتي",
-          "تطوير الواجهات وإعداد الاستضافة والمساعدة في التسويق الرقمي، بالاعتماد على تخصيص قالب ومكونات Bootstrap."
+          "للانطلاق",
+          "نحدد المحتوى والنطاق وفق احتياجك، ثم نخطط لإعداد الاستضافة والتوسعات المناسبة لاحقاً."
         ],
         [
-          "الموقع المباشر",
-          "المعاينة لقطة ثابتة للموقع. يفتح رابط زيارة الموقع الصفحة الفعلية على sonnego.de."
+          "حول المعاينة",
+          "مثال صممته لتوضيح هذه الخدمة، يعرض تصوراً ممكناً ولا يمثل مشروع عميل منشوراً."
         ]
       ]
     }
@@ -175,8 +173,8 @@ const projectCatalog = [
   {
     "id": "workplace-it",
     "category": "it",
-    "visual": "devices-preview.png",
-    "motion": "devices-preview.gif",
+    "visual": "devices-azure.png",
+    "motion": "devices-azure.gif",
     "tags": [
       "Desktop setup",
       "Networks",
@@ -261,7 +259,7 @@ const projectCatalog = [
   {
     "id": "azure-infrastructure",
     "category": "it",
-    "visual": "azure-preview.png",
+    "visual": "azure-azure.png",
     "tags": [
       "Azure",
       "Microsoft 365",
@@ -348,8 +346,8 @@ const projectCatalog = [
   {
     "id": "whatsapp-automation",
     "category": "software",
-    "visual": "automation-preview.png",
-    "motion": "automation-preview.gif",
+    "visual": "automation-azure.png",
+    "motion": "automation-azure.gif",
     "tags": [
       "n8n",
       "WhatsApp",
@@ -436,8 +434,8 @@ const projectCatalog = [
   {
     "id": "digital-life-hub",
     "category": "software",
-    "visual": "digital-life-hub-preview.png",
-    "motion": "digital-life-hub-preview.gif",
+    "visual": "digital-life-hub-azure.png",
+    "motion": "digital-life-hub-azure.gif",
     "tags": [
       "Vue.js",
       "Pinia",
@@ -522,7 +520,7 @@ const projectCatalog = [
   {
     "id": "smart-door-lock",
     "category": "iot",
-    "visual": "door-preview.png",
+    "visual": "door-azure.png",
     "tags": [
       "Raspberry Pi",
       "Python / Flask",
@@ -609,8 +607,8 @@ const projectCatalog = [
   {
     "id": "smart-christmas-tree",
     "category": "iot",
-    "visual": "smart-christmas-tree-preview.png",
-    "motion": "smart-christmas-tree-preview.gif",
+    "visual": "smart-christmas-tree-azure.png",
+    "motion": "smart-christmas-tree-azure.gif",
     "tags": [
       "ESP32",
       "C / FreeRTOS",
@@ -694,7 +692,6 @@ const projectCatalog = [
     }
   }
 ];
-
 (() => {
   const list=document.getElementById('project-list'), dialog=document.getElementById('project-dialog'), motionButton=document.getElementById('motion-toggle');
   const preference=window.matchMedia('(prefers-reduced-motion: reduce)');
@@ -712,7 +709,7 @@ const projectCatalog = [
       const foot=element('div','seminar-footer');foot.append(element('span','',labels[5]),element('span','',labels[6]));const validity=element('div','certificate-track');validity.setAttribute('aria-hidden','true');validity.append(element('span',''));wrap.append(top,title,network,validity,foot);return wrap;
     }
     const image=element('img',dialogView?'dialog-image':project.motion?'project-animation':'');
-    image.src=project.visual;image.alt=project.id==='sonnego'?'SonneGo — sonnego.de':project[lang()].name+' — '+(lang()==='ar'?'معاينة توضيحية':lang()==='de'?'illustrative Vorschau':'illustrated preview');image.width=800;image.height=450;image.loading='lazy';image.decoding='async';
+    image.src=project.visual;image.alt=project[lang()].name+' — '+(lang()==='ar'?'معاينة توضيحية':lang()==='de'?'illustrative Vorschau':'illustrated preview');image.width=800;image.height=450;image.loading='lazy';image.decoding='async';
     if(project.motion&&!dialogView){image.dataset.motion=project.motion;image.dataset.still=project.visual;}return image;
   }
   let observer;
@@ -725,7 +722,7 @@ const projectCatalog = [
     observer?.disconnect();list.replaceChildren();
     projectCatalog.filter(project=>filter==='all'||project.category===filter).forEach(project=>{
       const c=project[lang()],article=element('article','project');article.dataset.id=project.id;
-      const media=element('div','project-media'+(project.id==='sonnego'?' solar':''));media.append(visual(project));if(!['diagram','service-diagram'].includes(project.visual))media.append(element('span','media-status',c.status));
+      const media=element('div','project-media');media.append(visual(project));if(!['diagram','service-diagram'].includes(project.visual))media.append(element('span','media-status',c.status));
       const body=element('div','project-body'),meta=element('div','project-meta');meta.append(element('span','',c.type));
       body.append(meta,element('h3','',c.name),element('p','project-benefit',c.benefit));
       const tags=element('div','tags');project.tags.forEach(tag=>tags.append(element('span','',tag)));body.append(tags);
